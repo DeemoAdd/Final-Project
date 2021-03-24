@@ -1,0 +1,92 @@
+/* basics */
+body {
+  background-color: #1e1c38;
+}
+
+h2 {
+  color: white;
+  padding-top: 20px;
+}
+
+h5 {
+  color: white;
+}
+
+p {
+  color: white;
+  font-size: 20px;
+}
+
+a {
+  color: white;
+  font-size: 20px;
+}
+
+table {
+  color: white;
+  border: solid;
+  float: right;
+  margin: 20px 20px 0 20px;
+}
+
+th, td {
+  color: white;
+  border: solid;
+}
+
+.section {
+  padding: 20px 0 20px 0;
+}
+
+.headers {
+  margin-left: 20px;
+}
+
+/* navbar */
+.navbar {
+  background-color: #121124;
+}
+
+.btn {
+  width: 270px;
+  margin-left: 10px;
+}
+
+.btn-outline-success {
+  border-color: blue;
+  color: blue;
+}
+
+/* container */
+.container {
+  margin: 0 0 0 0;
+}
+
+/* carousel */
+.carousel-img-hk {
+  margin: auto;
+  height: 350px;
+  width: 100%;
+}
+
+#carousel-hk {
+  background-color: #FFF;
+  color: white;
+  width: 50%;
+  float: left;
+  margin: 0 20px 0 20px;
+}
+
+.carousel-button {
+  position: absolute;
+  left: 400px;
+  top: 200px;
+  color: #000;
+  font-size: 2rem;
+  background-color: #FFF;
+}
+
+/* hints */
+.hint1 {
+  color: yellow;
+}
